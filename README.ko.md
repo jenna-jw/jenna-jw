@@ -16,7 +16,7 @@
   <a href="mailto:leejoowon09@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;
   <a href="https://velog.io/@joowoni/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
   <br/>
-  <sub>숙명여자대학교 인공지능공학 학사 · TOEIC 945 · TOEIC Speaking AL · HSK 6급</sub>
+  <sub>숙명여자대학교 인공지능공학 학사 · TOEIC 945 · TOEIC Speaking AL </sub>
 </p>
 
 ---
