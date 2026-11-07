@@ -48,7 +48,7 @@
 - **Impact** : **88.3%** of test users said they needed the evidence feature, and 67% found the counseling-center link useful.
 
 #### 🔪 Knife Classification Under Environmental Variations
-<sub><b>MITA 2025 · 1st Author, Oral</b> · 2025 · <a href="https://github.com/jwdebbie/Knife-Classification-Dataset">GitHub</a></sub>
+<sub><b>MITA 2025 · 1st Author, Oral</b> · 2025 · <a href="https://github.com/jenna-jw/Robustness-Research">GitHub</a></sub>
 
 - **Problem** : A pilot YOLOv8 test scored mAP@0.5 = 0.972, but on one location and one knife. A high average score says little about how a model holds up on real CCTV.
 - **What I did** : Built a ~15,800-image dataset from 19 videos labeled by lighting, background, occlusion, and knife type, then trained 4 CNNs under identical settings and broke accuracy down by condition.
