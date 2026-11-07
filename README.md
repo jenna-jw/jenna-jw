@@ -16,7 +16,7 @@
   <a href="mailto:leejoowon09@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;
   <a href="https://velog.io/@joowoni/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
   <br/>
-  <sub>B.S. AI Engineering @ Sookmyung Women's University · TOEIC 945 · TOEIC Speaking AL · HSK Level 6</sub>
+  <sub>B.S. AI Engineering @ Sookmyung Women's University · TOEIC 945 · TOEIC Speaking AL </sub>
 </p>
 
 ---
